@@ -1,4 +1,4 @@
-# tanzu-java-web-app12
+# tanzu-java-web-app123
 
 > **NOTE** This repo has been archived and the sample has been moved to:  
 > https://github.com/vmware-tanzu/application-accelerator-samples/tree/main/tanzu-java-web-app
